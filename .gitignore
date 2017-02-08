@@ -1,0 +1,5 @@
+.gradle
+/build
+/.idea/libraries
+/.idea/modules
+/.idea/*.xml
